@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Supriya-Nair-A
 - 👀 I’m interested in literature,writing,tech
+-😀i love web development 
 - 🌱 I’m currently learning Computer science engineering
 - 😌I'm a student at CUSAT,kochi
 - 💞️ I’m looking to collaborate on tech,posters,art
